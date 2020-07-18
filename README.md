@@ -1,1 +1,1 @@
-# nextjs-zero-to-hero
+# nestjs-zero-to-hero
